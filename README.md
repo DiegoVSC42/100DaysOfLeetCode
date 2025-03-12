@@ -38,7 +38,8 @@ Cada dia tem sua própria pasta com:
 
 ## 📆 Progresso Diário
 
-| Dia    | Desafio                                           | Post LinkedIn                                                                              | Código                         |
-| ------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------ |
-| Dia 01 | [Two Sum](https://leetcode.com/problems/two-sum/) | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7304944016280711168/) | [Código](Dia-01/Solution.java) |
-| ...    | ...                                               | ...                                                                                        | ...                            |
+| Dia    | Desafio                                                               | Post LinkedIn                                                                              | Código                         |
+| ------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------ |
+| Dia 01 | [Two Sum](https://leetcode.com/problems/two-sum/)                     | [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7304944016280711168/) | [Código](Dia-01/Solution.java) |
+| Dia 02 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [LinkedIn Post]()                                                                          | [Código](Dia-02/Solution.java) |
+| ...    | ...                                                                   | ...                                                                                        | ...                            |
