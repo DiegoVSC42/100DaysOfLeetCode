@@ -5,24 +5,19 @@ Hoje resgatei o espírito das maratonas de programação e dei o primeiro passo 
 🔍 Por que esse projeto?
 
 Melhorar minha lógica de programação de forma consistente
-
 Dominar estruturas de dados e algoritmos
-
 Preparar-me para desafios técnicos em entrevistas
-
 Compartilhar aprendizados com a comunidade
-
 Relembrar dos tempos em que participava de maratonas de programação na faculdade
 
 💡 Sobre o Two Sum:
+
 Adotei uma abordagem "brute force" com dois loops aninhados. Apesar de não ser a mais otimizada (O(n²) em complexidade de tempo), foi valioso começar com uma solução intuitiva para entender o problema na prática.
 
 🌟 Reflexão do Dia 1:
 
 A importância de começar, mesmo com soluções simples
-
 Entender o problema profundamente antes de otimizar
-
 Já identifiquei oportunidades para evoluir (como hashmaps futuramente!)
 
 📌 Para quem se identifica:
