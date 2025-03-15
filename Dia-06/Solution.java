@@ -16,7 +16,6 @@ class Solution {
 }
 
 //Middle of the Linked List
-
 class Solution {
     public ListNode middleNode(ListNode head) {
         ListNode fastHead = head;
@@ -29,7 +28,6 @@ class Solution {
 }
 
 //Merge Two Sorted Lists
-
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode mergedList = new ListNode();
