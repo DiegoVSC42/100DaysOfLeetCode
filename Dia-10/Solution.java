@@ -1,21 +1,19 @@
 class Solution {
-    public int[] applyOperations(int[] nums) {
-        for(int i = 0; i < (nums.length-1) ; i++){
-            if(nums[i] == nums[i+1]){
-                nums[i] *= 2;
-                nums[i+1] = 0;
+    public int minOperations(int[] nums) {
+        int len = nums.length;
+        int operations = 0;
+        for(int i = 0 ; i < len - 2 ; i++){
+            if(nums[i] == 0){
+                for(int j = 0; j < 3 ; j++){
+                    nums[i+j] = (nums[i+j] == 1) ? 0 : 1;
+                }
+                operations++;
             }
         }
-        int count = 0;
-        for(int i = 0; i < nums.length; i++){
-            if(nums[i] != 0){
-                nums[count] = nums[i];
-                count++;
-            }
+        int sum = 0;
+        for(int num : nums){
+            sum += num;
         }
-        for(int i = count; i < nums.length ;i++){
-            nums[i] = 0;
-        }
-        return nums;
+        return (sum != len) ? -1 : operations;
     }
 }
