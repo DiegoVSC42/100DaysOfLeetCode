@@ -18,7 +18,7 @@ Seguirei compartilhando insights e aprendizados. Quer sugerir um problema para e
 
 📚 Documentações Utilizadas:
 
-- Documentação oficial do Java: Arrays: https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html
+- Documentação oficial do Java: String: https://docs.oracle.com/javase/8/docs/api/java/lang/String.html
 
 Link para o desafio: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/  
 Link para o código: https://github.com/DiegoVSC42/100DaysOfLeetCode/blob/main/Dia-13/Solution.java
