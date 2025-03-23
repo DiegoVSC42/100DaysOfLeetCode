@@ -7,8 +7,7 @@ O problema reforçou que, mesmo com soluções funcionais, buscar otimizações 
 
 🌟 Reflexão do Dia 13:  
 1️⃣ Humildade Técnica: Reconhecer que há sempre espaço para melhorar é parte essencial do crescimento como desenvolvedor.  
-2️⃣ Foco em Fundamentos: Algoritmos como o KMP são bases para problemas mais complexos, e dominá-los abre portas para soluções inovadoras.  
-3️⃣ Próximos Passos: Amanhã, aplicarei o KMP em um novo problema para consolidar o aprendizado.
+2️⃣ Foco em Fundamentos: Algoritmos como o KMP são bases para problemas mais complexos, e dominá-los abre portas para soluções inovadoras.
 
 📌 Para quem se identifica:  
 Se você também está estudando algoritmos avançados, buscando otimizar soluções ou enfrentando desafios técnicos que exigem paciência, vamos trocar experiências!
