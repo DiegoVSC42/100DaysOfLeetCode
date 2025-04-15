@@ -1,28 +1,25 @@
-🚀 Dia 35/100: #100DaysOfLeetCode – Removendo Nós com Dois Ponteiros
+🚀 Dia 36/100: hashtag#100DaysOfLeetCode – Encontrando Interseção em Listas Encadeadas
 
-Hoje continuei minha jornada com listas encadeadas no problema "Remove Nth Node From End of List". A princípio, os edge cases me deram trabalho, mas a criação de um nó auxiliar no início simplificou tudo!
+Hoje explorei o problema "Intersection of Two Linked Lists" e descobri uma abordagem eficiente usando contagem de comprimento e sincronização de ponteiros. O desafio foi identificar o nó de interseção sem modificar as listas originais.
 
-💡 Minha Solução:
+💡 Minha Estratégia:
 
-1. Criei um nó dummy no início para tratar casos especiais
-2. Utilizei dois ponteiros: fast e slow
-3. Avancei o ponteiro rápido em N nós primeiro
-4. Depois movi ambos simultaneamente até o final
-5. Removi o nó desejado ajustando os ponteiros
+1. Calculei os comprimentos de ambas as listas
+2. Verifiquei se as listas terminam no mesmo nó (caso contrário, não há interseção)
+3. Sincronizei os ponteiros avançando o da lista mais longa
+4. Percorri simultaneamente até encontrar a interseção
 
-🌟 Insights do Dia:
+🌟 Aprendizados do Dia:
 
-1️⃣ Nó Dummy Salvou: Resolveu edge cases como lista com um único nó
-2️⃣ Dois Ponteiros: Mantém complexidade O(n) com apenas uma passagem
-3️⃣ Controle de Ponteiros: Aprendi a importância de inicializá-los corretamente
+1️⃣ Importância do Comprimento: Conhecer os tamanhos ajudou a sincronizar os ponteiros
+2️⃣ Eficiência: Solução em O(m+n) tempo e O(1) espaço
+3️⃣ Verificação Final: Checar se as listas terminam no mesmo nó evitou falsos positivos
 
-📌 Para quem também está estudando:
+📌 Para quem está estudando:
 
-Se você já travou em edge cases com listas encadeadas, como lidou com isso? Compartilhe suas estratégias!
+Já pensou como seria resolver esse problema com abordagens diferentes? Que tal discutirmos alternativas?
 
-👉 Quer ver o código completo?
+🔗 Problema: https://lnkd.in/eyzXBPT7
+💻 Código: https://lnkd.in/estSz_fB
 
-Problema: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-Código: https://github.com/DiegoVSC42/100DaysOfLeetCode/blob/main/Dia-35/Solution.java
-
-#100DaysOfLeetCode #LinkedList #TwoPointers #EdgeCases
+hashtag#100DaysOfLeetCode hashtag#LinkedList hashtag#TwoPointers hashtag#Algorithm
